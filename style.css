@@ -1,0 +1,24 @@
+html {
+    font-family: Georgia;
+    background-color: blanchedalmond;
+}
+
+#content{
+    max-width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightyellow;
+    border-color: lightskyblue;
+    border-style: solid;
+}
+h1{
+    color: lightskyblue;
+    font-size: 3.5em;
+    text-align: center;
+
+}
+
+h2 {
+    color: mediumpurple;
+    text-align: center;
+}
