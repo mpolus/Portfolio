@@ -1,9 +1,8 @@
 html {
     font-family: Georgia;
-    background-color: blanchedalmond;
 }
 
-#content{
+#home{
     max-width: 75%;
     margin-right: auto;
     margin-left: auto;
@@ -11,10 +10,19 @@ html {
     border-color: lightskyblue;
     border-style: solid;
 }
+
+#second{
+    background-color: black;
+}
+
+#third{
+    background-color: violet;
+}
 h1{
     color: lightskyblue;
     font-size: 3.5em;
     text-align: center;
+    background-color: darkgrey;
 
 }
 
