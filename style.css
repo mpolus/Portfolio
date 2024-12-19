@@ -21,12 +21,42 @@ h1{
 
 }
 
+h2 {
+    color: mediumpurple;
+    text-align: left;
+}
+
+h3 {
+    color: lightskyblue;
+    text-align: center;
+}
+
+h4 {
+    color: lightskyblue;
+    text-align: left;
+    text-underline: pink;
+}
+
 p {
     color: mediumpurple;
-    text-align: center;
+    text-align: left;
 }
 
 ul{
     color: mediumpurple;
     text-align: left;
+}
+
+#photo1 {
+    display: block;
+    margin-left: auto;;
+    margin-right: auto;
+    width: 25%;
+}
+
+#photo2 {
+    display: block;
+    margin-left: auto;;
+    margin-right: auto;
+    width: 25%;
 }
