@@ -1,32 +1,32 @@
 html {
-    font-family: Georgia;
+    font-family: Didot, serif;
+    background-color: papayawhip;
 }
 
-#home{
-    max-width: 75%;
-    margin-right: auto;
-    margin-left: auto;
+
+
+#page {
     background-color: lightyellow;
-    border-color: lightskyblue;
+    border-color: pink;
     border-style: solid;
+    border-width: 3px;
 }
 
-#second{
-    background-color: black;
-}
 
-#third{
-    background-color: violet;
-}
 h1{
-    color: lightskyblue;
+    color: lightpink;
     font-size: 3.5em;
     text-align: center;
-    background-color: darkgrey;
+
 
 }
 
-h2 {
+p {
     color: mediumpurple;
     text-align: center;
+}
+
+ul{
+    color: mediumpurple;
+    text-align: left;
 }
