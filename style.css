@@ -61,12 +61,8 @@ ul{
     width: 25%;
 }
 
-#nav:hover:not(active) {
-    /*border: 3px blue solid;*/
+#nav {
     text-align:center;
     display: block;
-    color: white;
-    padding: 14px 16px;
-    text-decoration: none;
 
 }
